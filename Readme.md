@@ -3,7 +3,7 @@
 # LightOJ Solutions
 </div>
 
-This repository contains my source codes of LightOJ problems. They are in C language.  
+This repository contains my source codes of LightOJ problems. They are in C and C++ language.  
 Feel free to check these codes out.
 
 <div align="center">
