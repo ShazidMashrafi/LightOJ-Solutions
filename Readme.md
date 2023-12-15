@@ -8,8 +8,8 @@ This repository contains my solutions of LightOJ problems. They are in C and C++
 
 ## Index
 
-| Problem Code    | Problem Name    | Question        | Solution           |
-| :--------------:|:---------------:|:---------------:|:------------------:|
+| Problem Code    |  Problem Name  |  Question    |  Solution |
+| :-------------: | :------------: | :----------: | :--------:|
 | LOJ 1000 | Greetings from LightOJ | [Question](https://lightoj.com/problem/greetings-from-lightoj) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201000%20Greetings%20from%20LightOJ)
 | LOJ 1001 | Opposite Task | [Question](https://lightoj.com/problem/opposite-task) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201001%20Opposite%20Task)
 | LOJ 1354 | IP Checking | [Question](https://lightoj.com/problem/ip-checking) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201354%20IP%20Checking)
