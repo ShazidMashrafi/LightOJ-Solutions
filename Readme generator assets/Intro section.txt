@@ -7,3 +7,5 @@ This repository contains my solutions of LightOJ problems. They are in C and C++
 <div align="center">
 
 ## Index
+|  Index  |  Problem ID  |  Problem Name  |  Question  |  Solution  |
+| :-----: | :----------: | :------------: | :--------: | :--------: |
