@@ -7,12 +7,9 @@ This repository contains my solutions of LightOJ problems. They are in C and C++
 <div align="center">
 
 ## Index
-
-| Problem Code    |  Problem Name  |  Question    |  Solution |
-| :-------------: | :------------: | :----------: | :--------:|
-| LOJ 1000 | Greetings from LightOJ | [Question](https://lightoj.com/problem/greetings-from-lightoj) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201000%20Greetings%20from%20LightOJ)
-| LOJ 1001 | Opposite Task | [Question](https://lightoj.com/problem/opposite-task) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201001%20Opposite%20Task)
-| LOJ 1354 | IP Checking | [Question](https://lightoj.com/problem/ip-checking) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Code/LOJ%201354%20IP%20Checking)
+| 1 | 1000 | Greetings from LightOJ | [Question](https://www.lightoj.com/problem/greetings-from-lightoj) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Codes/1000%20-%20Greetings%20from%20LightOJ)
+| 2 | 1001 | Opposite Task | [Question](https://www.lightoj.com/problem/opposite-task) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Codes/1001%20-%20Opposite%20Task)
+| 3 | 1354 | IP Checking | [Question](https://www.lightoj.com/problem/ip-checking) | [Solution](https://github.com/ShazidMashrafi/LightOJ-Solutions/tree/master/Codes/1354%20-%20IP%20Checking)
 
 </div>
 
@@ -20,4 +17,4 @@ This repository contains my solutions of LightOJ problems. They are in C and C++
 
 I am Shazid Mashrafi.  
 I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
-Visit my [Website](https://shazidmashrafi.com) and [LightOJ](https://lightoj.com/user/shazidmashrafi) account.  
+Visit my [Website](https://shazidmashrafi.com) and [LightOJ](https://lightoj.com/user/shazidmashrafi) account.
